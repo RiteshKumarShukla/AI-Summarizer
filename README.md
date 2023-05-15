@@ -1,7 +1,7 @@
 # AI-Summarizer
 *Our article summarization app generates concise summaries of lengthy articles, using advanced natural language processing algorithms to identify key themes and arguments. Save time and quickly grasp complex topics with our constantly learning and improving summarization technology.*
 
-# <a href="ai-article-summarizer-summz.netlify.app">See Live</a>
+# <a href="https://ai-article-summarizer-summz.netlify.app/">See Live</a>
 
 # Features :
 1.   Beautiful UI/UX with a touch of glass morphism design using Tailwind CSS.
