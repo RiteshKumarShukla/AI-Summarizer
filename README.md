@@ -16,6 +16,7 @@
 3. Redux - Tool Kit
 4. Rapid API
 
+<br/>
 
 
 ![image](https://github.com/RiteshKumarShukla/AI-Summarizer/assets/110231091/7e57b81b-f5e6-4f0f-b472-5b4ba1703b27)
